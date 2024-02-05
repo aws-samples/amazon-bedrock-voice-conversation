@@ -6,9 +6,9 @@ Key aspects shown in the code:
 
 - Streaming transcription of user speech to text with [Amazon Transcribe](https://aws.amazon.com/pm/transcribe)
 - Making requests to Amazon Bedrock with transcribed text
-- Streaming text responses from Bedrock to speech with [Amazon Polly](https://aws.amazon.com/polly/)
+- Streaming text responses from Amazon Bedrock to speech with [Amazon Polly](https://aws.amazon.com/polly/)
 - Playing back Amazon Polly speech audio to user
-- Buffering user speech and Bedrock responses to enable conversational flow
+- Buffering user speech and Amazon Bedrock responses to enable conversational flow
 
 In summary, this code serves as an example implementation for developers to reference when building voice-enabled applications powered by Foundational AI through Amazon Bedrock and related AWS services.
 
