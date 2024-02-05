@@ -1,0 +1,4 @@
+boto3==1.29.2
+amazon-transcribe==0.6.2
+sounddevice==0.4.6
+PyAudio==0.2.14
